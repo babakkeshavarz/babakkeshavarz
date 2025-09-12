@@ -9,6 +9,3 @@ With 8+ years of experience in **machine learning, statistical modeling, and lar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/babak-keshavarz)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:babak0keshavarz@gmail.com)  
 
----
-
-✨ *Always curious. Always building.*  
