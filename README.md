@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Babak
+# Hi, I'm Babak
 
 **Senior Data Scientist | Machine Learning | Statistical Modeling | Telecom & Beyond**
 
