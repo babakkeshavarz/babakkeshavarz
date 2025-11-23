@@ -1,5 +1,1 @@
-# Hi, I'm Babak
-
-**Senior Data Scientist | Machine Learning | Statistical Modeling | Telecom & Beyond**
-
-With 8+ years of experience in **machine learning, statistical modeling, and large-scale data systems**, I specialize in transforming complex data into **scalable, production-ready solutions**. My background spans **telecommunications, healthcare, and geospatial analytics**, with a strong focus on delivering business value.
+Babak Keshavarz is a Senior Data Scientist and ML Engineer who builds production ML pipelines, anomaly detection systems, and predictive models that drive measurable impact. His GitHub showcases reproducible ML projects, data engineering workflows, and analytics experiments across telecom, healthcare, and industrial datasets.
